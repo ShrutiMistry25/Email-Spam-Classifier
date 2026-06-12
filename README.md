@@ -56,7 +56,7 @@ A machine learning web app that classifies SMS/Email messages as **Spam** or **N
 
 ## Usage
 
-1. Open the app in your browser (http://localhost:8501)
+1. Open the app in your browser 
 2. Type or paste a message in the text area
 3. Click **Predict**
 4. The app will classify it as **Spam** or **Not Spam**
